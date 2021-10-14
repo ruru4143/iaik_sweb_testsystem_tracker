@@ -1,3 +1,7 @@
+# iaik sweb testsystem tracker
+
+this simple script scrapes your own submission data and puts it into a csv file
+
 # how to use
 
 1. put your cedentials into secret.py
